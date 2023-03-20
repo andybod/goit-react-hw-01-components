@@ -1,0 +1,30 @@
+.transactionHistory {
+  margin-top: 100px;
+  width: 500px;
+  text-align: center;
+}
+.thead {
+  background: #02bdd5;
+  color: #fff;
+}
+.thead th {
+  padding: 10px 0;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.tbody {
+  background: #ecf1f3;
+  font-weight: 400;
+  font-size: 18px;
+  color: #989c9e;
+}
+.tbody td {
+  padding: 10px 0;
+}
+.tbody tr:nth-child(odd) {
+  background: #fff;
+}
+.tbody td:first-child {
+  text-transform: capitalize;
+}

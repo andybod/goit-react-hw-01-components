@@ -1,0 +1,13 @@
+.statistics {
+  background: #fff;
+  margin-top: 100px;
+  width: 500px;
+  text-align: center;
+}
+.title {
+  margin: 50px 0;
+  color: #6b7074;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.37;
+}
